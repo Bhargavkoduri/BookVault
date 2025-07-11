@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-wsn7#=1)@kw-u5*%f9g@pb+ped8$pki18+t!0=b57o=k55eo_b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bookvault-hbw3.onrender.com']
+
 
 
 # Application definition
